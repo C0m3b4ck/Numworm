@@ -1,4 +1,5 @@
 <a href=https://github.com/C0m3b4ck/Numworm/blob/main/README_PL.md>🇵🇱🇵🇱🇵🇱🇵🇱🇵🇱POLSKA WERSJA🇵🇱🇵🇱🇵🇱🇵🇱🇵🇱🇵🇱</a>
+<br><b>🇪🇺🇪🇺🇪🇺Made in Europe🇪🇺🇪🇺🇪🇺
 <br>![GitHub All Releases](https://img.shields.io/github/downloads/C0m3b4ck/Numworm/total)
 # Numworm
 A calculator program made in Visual Basic 6
